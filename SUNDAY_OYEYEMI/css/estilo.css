@@ -1,0 +1,81 @@
+
+/*NAVIGATION STYLE */
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+li {
+    float: left;
+}
+li a {
+    display: block;
+    color: rgb(226, 213, 238);
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+a:active {
+    color: red;
+}
+
+li a:hover {
+    background-color: rgb(78, 141, 87);
+}
+.foto1 {
+    width: 400px;
+}
+
+header{
+    background-color: rgb(216, 210, 198);
+}
+body{
+    margin: 20px;
+    padding: 10px;
+}
+
+footer {
+    background-color: rgb(228, 224, 216); 
+  /*  position: fixed; */
+    
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    color: rgb(90, 97, 190);
+    text-align: left;
+    margin-bottom: 3px;
+    padding-top: 3px;
+    padding-inline-end: 2px;
+ }
+ 
+ .container {
+     background-color: rgb(216, 250, 249);
+ }
+
+ .content {
+     padding: 5px, 10px, 5px, 10px;
+     margin-left: 20px;
+     margin-right: 20px;
+ }
+
+#world {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+button {
+    margin: 10px;
+    background-color: rgb(216, 210, 198);
+}
+
+h5{
+    margin-bottom: 2px;
+
+}
+
+ 
