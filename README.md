@@ -1,1 +1,2 @@
-# continental_Statistic
+# continental_Statistic.
+# Javascript project
